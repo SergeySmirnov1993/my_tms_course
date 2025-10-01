@@ -1,1 +1,2 @@
-print('Hellow world')
+def hellow_fnction():
+    print('Hellow world')
